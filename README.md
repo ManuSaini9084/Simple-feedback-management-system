@@ -51,6 +51,6 @@ This project implements a simple Feedback Management System, consisting of a fro
 - npm install
 - npx ts-node-dev src/index.ts
 
--**cd frontend**
+- **cd frontend**
 - npm install
 - npm start
