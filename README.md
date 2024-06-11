@@ -44,3 +44,13 @@ This project implements a simple Feedback Management System, consisting of a fro
 - **Data Persistence**: Implementing a database for storing feedback entries to persist data between sessions.
 - **Authentication**: Adding user authentication to ensure only authenticated users can submit feedback.
 - **Pagination**: Implementing pagination for the feedback list to handle a large number of entries.
+
+### Instructions
+
+- **cd backend**
+- npm install
+- npx ts-node-dev src/index.ts
+
+-**cd frontend**
+- npm install
+- npm start
